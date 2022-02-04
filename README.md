@@ -1,6 +1,6 @@
 Hi! Call me Tomo!
 
-- Currently I'm working on a lot of web3 stuff.
+- I'm working on a lot of web3 projects. I built https://www.proved.xyz/ (private repository)
 - My recent side projects are
   - [sol-hayama](https://github.com/tomoima525/sol-hayama) ... NFT trading platform for Solana
   - [zkp-proof](https://github.com/tomoima525/zkp-vote) ... zkSnarks Zero Knowledge Proof Voting on Ethereum
