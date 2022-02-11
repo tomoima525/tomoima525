@@ -1,6 +1,9 @@
 Hi! Call me Tomo!
 
-- I'm working on a lot of web3 projects. I built https://www.proved.xyz/ (private repository)
+- Going down rabbit holes of web3!
+- I built https://www.proved.xyz/
+  - It's a tool to prove your contributions/roles on DAOs. Proved allows DAO contributors to turn your discord role into NFTs.
+  - NFTs are issued on the Polygon network. Proved interacts with the blockchain from the backend which is serverless built on top of AWS.  
 - My recent side projects are
   - [sol-hayama](https://github.com/tomoima525/sol-hayama) ... NFT trading platform for Solana
   - [zkp-proof](https://github.com/tomoima525/zkp-vote) ... zkSnarks Zero Knowledge Proof Voting on Ethereum
