@@ -6,7 +6,7 @@ Hi! Call me Tomo!
   - NFTs are issued on the Polygon network. Proved interacts with the blockchain from the backend which is serverless built on top of AWS.  
 - My recent side projects are
   - [sol-hayama](https://github.com/tomoima525/sol-hayama) ... NFT trading platform for Solana
-  - [zkp-proof](https://github.com/tomoima525/zkp-vote) ... zkSnarks Zero Knowledge Proof Voting on Ethereum
+  - [continuum](https://github.com/tomoima525/continuum) ... Zero Knowledge Proof(zkSnarks) background checker
 
 ## Activities
 [![](https://raw.githubusercontent.com/tomoima525/tomoima525/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
