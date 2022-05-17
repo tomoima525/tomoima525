@@ -1,13 +1,13 @@
 Hi! Call me Tomo!
 
-- Going down rabbit holes of web3!
+- Going down the rabbit hole of web3!
 - I built https://www.proved.xyz/
   - It's a tool to prove your contributions/roles on DAOs. Proved allows DAO contributors to turn your discord role into NFTs.
   - NFTs are issued on the Polygon network. Proved interacts with the blockchain from the backend which is serverless built on top of AWS.  
 - My recent side projects are
-  - [sol-hayama](https://github.com/tomoima525/sol-hayama) ... NFT trading platform for Solana
   - [continuum](https://github.com/tomoima525/continuum) ... Zero Knowledge Proof(zkSnarks) background checker
-
+  - [sol-hayama](https://github.com/tomoima525/sol-hayama) ... NFT trading platform for Solana
+ 
 ## Activities
 [![](https://raw.githubusercontent.com/tomoima525/tomoima525/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tomoima525/tomoima525/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tomoima525/tomoima525/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
