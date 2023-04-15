@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/tomoima525/tomoima525/main/profile-summary-card-output/nord_bright/4-productive-time.svg)
+```
+
+    
