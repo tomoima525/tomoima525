@@ -1,13 +1,15 @@
 Hi! Call me Tomo!
 
-- Going down the rabbit hole of web3!
-- I built 
-  - https://noxx.xyz
-    - A payroll and compliance tool for pseudonymous talents. Using ZKP for verification.
-    - Contract https://github.com/knot-inc/noxx-contract   
-  - https://www.proved.xyz/
-    - A tool to prove your contributions/roles on DAOs. Proved allows DAO contributors to turn your discord role into NFTs.
-    - NFTs are issued on the Polygon network. Proved interacts with the blockchain from the backend which is serverless built on top of AWS.  
+- I have a strong interest in how people work without having limits to their locations and maintain control over their online identities.
+- Currently focusing on the area of hiring x AI. Exploring the idea of simplifying the matching between companies and applicants. PoC: https://github.com/knot-inc/LLM-Recruiter-Agents  
+
+## What I've been working on
+- https://noxx.xyz
+  - A payroll and compliance tool for pseudonymous talents. Using ZKP for verification.
+  - Smart Contract: https://github.com/knot-inc/noxx-contract   
+- https://www.proved.xyz/
+  - A tool to prove your contributions/roles on DAOs. Proved allows DAO contributors to turn your discord role into NFTs.
+  - NFTs are issued on the Polygon network. Proved interacts with the blockchain from the backend which is serverless and built on top of AWS.  
 - My recent side projects are
   - [continuum](https://github.com/tomoima525/continuum) ... Zero Knowledge Proof(zkSnarks) background checker
   - [sol-hayama](https://github.com/tomoima525/sol-hayama) ... NFT trading platform for Solana
