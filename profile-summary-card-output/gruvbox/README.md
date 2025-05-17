@@ -45,16 +45,6 @@
 
 ---
 
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/tomoima525/tomoima525/main/profile-summary-card-output/gruvbox/3-stats.svg)
-```
-
-    
-
----
-
 ![](./4-productive-time.svg)
 
 ```
