@@ -1,19 +1,17 @@
 Hi! Call me Tomo!
 
-- I have a strong interest in how people work without having limits to their locations and maintain control over their online identities.
-- Currently focusing on the area of hiring x AI. Exploring the idea of simplifying the matching between companies and applicants. PoC: https://github.com/knot-inc/LLM-Recruiter-Agents  
+- Full-stack / Staff-level engineer. Founder CTO. Strong in TypeScript, Next.js, AWS, and system design. Built and scaled products end-to-end. Led and mentored teams for 8+ years.
+- I’m interested in how people can work globally without geographic limits, and how they can maintain control over their digital identity.
 
 ## What I've been working on
-- https://noxx.xyz
-  - A payroll and compliance tool for pseudonymous talents. Using ZKP for verification.
-  - Smart Contract: https://github.com/knot-inc/noxx-contract   
-- https://www.proved.xyz/
-  - A tool to prove your contributions/roles on DAOs. Proved allows DAO contributors to turn your discord role into NFTs.
-  - NFTs are issued on the Polygon network. Proved interacts with the blockchain from the backend which is serverless and built on top of AWS.  
-- My recent side projects are
-  - [continuum](https://github.com/tomoima525/continuum) ... Zero Knowledge Proof(zkSnarks) background checker
-  - [sol-hayama](https://github.com/tomoima525/sol-hayama) ... NFT trading platform for Solana
- 
+- https://noxx.ai
+  - AI-powered hiring platform. Noxx automates evaluation and screening using orchestrated AI agents. Designed the AI interview flow using a voice agent built on Pipecat.
+  - Since 2024, Noxx has evaluated 17,000+ applications across 140+ countries and helped 41 companies (55 jobs) hire matched talent.
+
+## Recent side projects
+- [Voice AI & Agent Primer (Japanese)](https://voiceaiandvoiceagents.com/ja/) — full translation of original English text
+- [Daily Diary](https://github.com/tomoima525/daily-diary) — AI that transforms each day’s reflection into a short memory video
+  
 ## Activities
 [![](https://raw.githubusercontent.com/tomoima525/tomoima525/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tomoima525/tomoima525/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tomoima525/tomoima525/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
