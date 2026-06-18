@@ -5,7 +5,7 @@ Hi! Call me Tomo!
 
 ## What I've been working on
 - https://noxx.ai
-  - AI-powered hiring platform. Noxx automates evaluation and screening using orchestrated AI agents. Designed the AI interview flow using a voice agent built on Pipecat. Since 2024, Noxx has evaluated 17,000+ applications across 140+ countries and helped 20+ companies (60+ jobs) hire matched talent.
+  - AI-powered hiring platform. Noxx automates evaluation and screening using orchestrated AI agents. Designed the AI interview flow using a voice agent built on Pipecat. Since 2024, Noxx has evaluated 25,000+ applications across 140+ countries and helped 30+ companies (80+ jobs) hire matched talent.
 
 ## Recent side projects
 - [pipecat-ts](https://github.com/tomoima525/nano-pipecat-ts) Porting Pipecat to TS
